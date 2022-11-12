@@ -4,7 +4,7 @@
 
 ### Problem
 
-Whenever there is a DeFi exploit, backers of that project tend to delete their tweets.
+Whenever there is a DeFi exploit, backers of that project tend to "shred" all compromising data - they delete their tweets.
 Once these tweets get deleted, valuable information is lost such as: connections, supporters, potential network effects.
 
 ### Solution 
